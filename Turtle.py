@@ -1,0 +1,27 @@
+import turtle
+screen=turtle.Screen()
+
+while 11>10:
+    turtle.penup()
+    turtle.right(90)
+    turtle.forward(5)
+    turtle.left(90)
+    turtle.forward(5)
+    turtle.pendown()
+    turtle.right(90)
+    turtle.forward(2.5)
+    turtle.right(90)
+    turtle.forward(5)
+    turtle.left(90)
+    turtle.forward(2.5)
+    turtle.penup()
+    turtle.forward(2.5)
+    turtle.left(90)
+    turtle.forward(1)
+    turtle.pendown()
+    turtle.forward(1)
+    turtle.penup()
+    turtle.forward(1)
+    turtle.pendown()
+    turtle.forward(1)
+
